@@ -1,1 +1,2 @@
 # UFOs
+In this project we were dealing with the topic of UFOs. We were prompted to make filters for date, city, state, country and shape of the sightings. First we replaced our handle click funtion and created an if-else statement to add filter data from the input. We then created a filter table. Then we implemented a d3 select all funtion. The result is a clean and functional webpage that allows you to filter the data to suite your needs.
